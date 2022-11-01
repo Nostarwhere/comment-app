@@ -1,0 +1,20 @@
+.App {
+  padding: 0 25px;
+}
+.product-info {
+  display: flex;
+  /* justify-content: center; */
+  align-items: center;
+}
+
+/* .product-info .image-holder {
+  margin-right: 15px;
+} */
+.active-star {
+  color: orange;
+}
+
+.star {
+  cursor: pointer;
+
+}
